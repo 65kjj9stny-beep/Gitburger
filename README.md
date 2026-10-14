@@ -1,2 +1,13 @@
-# Gitburger
-projet de decouverte de git et github
+# GitBurger
+
+Bienvenue chez GitBurger !
+
+Découvrez notre recette de hamburger maison.
+
+## Notre recette
+
+Pain burger
+Steak
+Salade
+Tomate
+Fromage
